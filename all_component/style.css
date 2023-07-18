@@ -1,0 +1,36 @@
+.bg-custom{
+	background-color: #00695c ;
+}
+
+.text-col{
+	color: #e65100;
+}
+.btn-custom{
+	background-color: #F4CFBE;
+}
+
+.btn-ct{
+	background-color: #E07A4C;
+	color: white;
+}
+.btn-vd{
+	background-color: #236B61;
+	color: white;
+}
+.btn-price{
+	background-color: #B74E1F;
+	color: white;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background-color: #F2C7B4 ;
+	color: #4e342e;
+	border-radius: 8px;
+}
+
+.btn-setting{
+	background-color: #68CEBF  ;
+}
+.btn-contact{
+	background-color: #F0C0AA;
+}
